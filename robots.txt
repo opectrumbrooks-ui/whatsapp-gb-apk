@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://whtsupgb.github.io/sitemap.xml
